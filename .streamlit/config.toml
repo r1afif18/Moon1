@@ -1,0 +1,17 @@
+# File: .streamlit/config.toml
+
+[theme]
+# Warna utama untuk elemen interaktif
+primaryColor = "#4CAF50"
+
+# Warna latar belakang utama aplikasi
+backgroundColor = "#F0F8F0"
+
+# Warna latar belakang untuk sidebar dan elemen sekunder
+secondaryBackgroundColor = "#E5F2E5"
+
+# Warna teks utama
+textColor = "#262730"
+
+# Jenis font yang digunakan
+font = "sans serif"
